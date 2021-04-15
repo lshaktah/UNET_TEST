@@ -9,7 +9,8 @@ The images were part of the 2018 Data Science Bowl
 To run this...
 1. Download zip file
 2. Unzip the contents
-3. Open U-Net_Test.py in a Python IDE (Spyder, for example)
-4. Run the code (it takes a while to finish) 
+3. Unpack the Data Science Bowl folder att he same level as the .py file
+4. Open U-Net_Test.py in a Python IDE (Spyder, for example)
+5. Run the code (it takes a while to finish) 
 
 Notes made in body of code for further elaboration
