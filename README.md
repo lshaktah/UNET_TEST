@@ -2,7 +2,7 @@
 This is an attempt to get a U-Net CNN set up for image processing/segmentation
 
 This was made to try to identify cells in images of cells
-The files have been reduced to 140 images for training instead of the provided 670
+The files have been reduced to 130 images for training instead of the provided 670 (due to upload limits)
 
 The images were part of the 2018 Data Science Bowl
 
